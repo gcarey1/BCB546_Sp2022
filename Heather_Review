@@ -1,0 +1,15 @@
+Hi, Grace!
+     Your script ran without any problems. Excellent work! Here are a couple of suggestions:
+     
+     1. I'm debating whether to keep my "view" commands in as they are really just for me to double check, but slows down the code for a viewer. 
+     How do you feel about keeping them in v. removing them?
+     
+     2. It may be more descriptive to change the y-axis labels on your visuals to something like "Distribution" using command ylab("Distribution")
+     
+     3. For the zygosity visual, I did both species and groups. That is how I understood the assignment prompt, but perhaps double check?
+     If that is the case, you will need an additional visual for the last assignment prompt. 
+     
+     Overall, I am impressed by how smoothly the script ran and how well written it is. I can tell you worked really hard on this!
+     
+     Best,
+     Heather
